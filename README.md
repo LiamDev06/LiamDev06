@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Liam, I'm a 14 year old boy from Sweden.
 
-I'm currently a developer for @BlueDebris and @ClubVaxel working on different minecraft plugins.
+I'm currently owning my own minecraft network serve @BlueDebris!
+I also work as a developer for @ClubVaxel, doing random programming stuff, custom plugins and much more.
 
 The easiest way to get in contact with me is through discord or twitter
 Discord: LiamHBest#2858
