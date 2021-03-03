@@ -1,12 +1,12 @@
 ### Hi there 👋
-My name is Liam, I'm a 14 year old boy from Sweden.
+### My name is Liam, I'm a 14 year old boy from Sweden.
 
 I'm currently owning my own minecraft network serve @BlueDebris!
 I also work as a developer for @ClubVaxel, doing random programming stuff, custom plugins and much more.
 
 The easiest way to get in contact with me is through discord or twitter
-Discord: LiamHBest#2858
-Twitter: @liam_8989
+- Discord: LiamHBest#2858
+- Twitter: @liam_8989
 
 <!--
 **LiamHBest0608/LiamHBest0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
