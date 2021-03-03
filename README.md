@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Liam, I'm a 14 year old boy from Sweden.
 
-I'm currently owning my own minecraft network serve @BlueDebris!
+I'm currently owning my own minecraft network server @BlueDebris!
 I also work as a developer for @ClubVaxel, doing random programming stuff, custom plugins and much more.
 
 -------------------------------------------------------------------------------
