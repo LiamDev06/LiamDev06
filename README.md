@@ -4,6 +4,7 @@
 I'm currently owning my own minecraft network serve @BlueDebris!
 I also work as a developer for @ClubVaxel, doing random programming stuff, custom plugins and much more.
 
+-------------------------------------------------------------------------------
 The easiest way to get in contact with me is through discord or twitter
 - Discord: LiamHBest#2858
 - Twitter: @liam_8989
