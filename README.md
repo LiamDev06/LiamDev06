@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### My name is Liam, I'm from Sweden.
 
-I'm currently owning my own minecraft network server @BlueDebris!
-Previous developer for @ClubVaxel, @HexilionGames and @SMP doing random programming stuff, custom plugins and much more.
+I'm currently owning my own minecraft network server @HybridNetwork!
+Previous developer for @ClubVaxel, @HexilionGames and @SMP doing random programming stuff, custom plugins, discord bots and much more.
 
 -------------------------------------------------------------------------------
 The easiest way to get in contact with me is through discord or twitter
-- Discord: LiamHBest#2858
+- Discord: LiamHBest#0001
 - Twitter: @liam_8989
 
 <!--
