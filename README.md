@@ -1,13 +1,5 @@
-### Hi there 👋
-### My name is Liam, I'm from Sweden.
-
-I'm currently owning my own minecraft network server @HybridNetwork!
-Previous developer for @ClubVaxel, @HexilionGames and @SMP doing random programming stuff, custom plugins, discord bots and much more.
-
--------------------------------------------------------------------------------
-The easiest way to get in contact with me is through discord or twitter
-- Discord: LiamHBest#0001
-- Twitter: @liam_8989
+### Hello there! 👋
+### I am Liam, a developer from Sweden.
 
 <!--
 **LiamHBest0608/LiamHBest0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
