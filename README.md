@@ -1,6 +1,7 @@
 ### Hello there! 👋
 ### I am Liam, a developer from Sweden.
 
+To get in contact with me, message me on discord `LiamHBest#5134`
 <!--
 **LiamHBest0608/LiamHBest0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
