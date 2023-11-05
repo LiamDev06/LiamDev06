@@ -1,4 +1,4 @@
-### Hello there! 👋
+## Hello there! 👋
 ### I am Liam, a developer from Sweden.
 
 To get in contact with me, message me on Discord `@liamh1`, or Twitter `liam_8989`.
