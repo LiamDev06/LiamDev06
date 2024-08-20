@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🚀 My Skills
 - **Primary Programming Language:** Java
-- **Minecraft Technologies:** Bukkit/Spigot/Paper, NMS, Velocity
+- **Secondary Programming Languages:** Python, JavaScript/TypeScript
+- **Minecraft Technologies:** Bukkit/Spigot/Paper, Minecraft Internals, Velocity
 - **Backend Development:** SpringBoot, Microservices Architecture, RESTful services 
 - **Web Development:** HTML, CSS, React, TypeScript
 - **Databases:** MongoDB, MySQL, Redis, InfluxDB
