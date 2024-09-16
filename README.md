@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - **Backend Development:** SpringBoot, Microservices Architecture, RESTful services 
 - **Web Development:** HTML, CSS, React, TypeScript
 - **Databases:** MongoDB, MySQL, Redis, InfluxDB
+- **Cloud Technologies:** Amazon Web Services
 
 ## 🤝 Let's Connect
 I'm open to collaborations, discussions, and sharing knowledge with fellow developers. If you have any interesting projects, ideas, or just want to chat about programming and Minecraft, feel free to reach out to either `liamh1` on Discord or `@liam_8989` on Twitter!
