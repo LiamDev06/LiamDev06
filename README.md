@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - **Secondary Programming Languages:** Python, JavaScript/TypeScript
 - **Minecraft Technologies:** Bukkit/Spigot/Paper, Minecraft Internals, Velocity
 - **Backend Development:** SpringBoot, Microservices Architecture, RESTful services 
-- **Web Development:** React, Next.js, TypeScript
-- **Databases:** MongoDB, MySQL, Redis, InfluxDB
+- **Web Development:** React, Next.js, ChakraUI
+- **Databases:** MongoDB, MySQL/Postgres, Redis, InfluxDB
 - **Cloud Technologies:** Amazon Web Services, Microsoft Azure
 
 ## 🤝 Let's Connect
