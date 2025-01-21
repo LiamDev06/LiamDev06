@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - **Primary:** Java
 - **Secondaries:** Python, JavaScript/TypeScript
 - **Minecraft Technologies:** Bukkit/Spigot/Paper, Minecraft Internals, Velocity
-- **Backend:** SpringBoot, Microservices Architecture, RESTful services 
+- **Backend:** SpringBoot, Microservices Architecture, RESTful services, GraphQL
 - **Web:** React, Next.js, ChakraUI
 - **Databases:** MongoDB, MySQL/PostgreSQL, Redis, InfluxDB
 - **Cloud:** Amazon Web Services, Microsoft Azure
