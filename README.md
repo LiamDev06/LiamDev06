@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, I'm Liam!</h1>
 
 <p align="center">
-  Full-stack software engineer that really likes automating systems and designing and building intelligent frameworks.
+  Full-stack software engineer that really likes automating systems and building intelligent frameworks.
 </p>
 
 ## 👨‍💻 About Me
