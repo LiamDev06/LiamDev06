@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello there, I'm Liam!</h1>
 
 <p align="center">
-  Full-stack software engineer that really likes automating systems and building intelligent frameworks.
+  Full-stack software engineer that really likes automating systems and building intelligent frameworks.<br>
+  Check out my site at https://liamnet.dev!
 </p>
 
 ## 👨‍💻 About Me
@@ -12,6 +13,6 @@ I lean on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ja
 More recently a growing chunk of my work has moved into AI, like building RAG pipelines, LLM-powered agents, and the tooling around evaluating and running them. Lately I've been pushing further down that stack, getting into fine-tuning and the lower-level of how these models actually work. There it's mostly <img src="https://cdn.simpleicons.org/python/3776AB" height="14"/> Python in that world, which I also reach for outside of AI whenever I'm doing automation scripts or data processing pipeline.
 
 ## 🤝 Let's Connect
+- Mail: `liam.hillefors@gmail.com`
 - Discord: `liamh1`
 - Twitter / X: `@liam_8989`
-- Mail: `liam.hillefors@gmail.com`
